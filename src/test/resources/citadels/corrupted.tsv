@@ -1,0 +1,9 @@
+Name	Qty	color	cost	text
+Temple	1	blue	2	
+Market	1	green	2	
+Manor	1	yellow	3	
+Invalid	-1	red	2	
+BadCost	1	red	abc	
+Haunted	1	purple	2	Special ability
+EmptyColor	1		2	
+Bad	Line	Only 
